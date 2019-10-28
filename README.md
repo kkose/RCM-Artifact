@@ -7,4 +7,4 @@ The most up to date version of our more general segmentation method for delineat
 
 We will make the model and the corresponding code available to public after the paper the technical paper explaining the algorithm will be published. 
 
-Please contact [Kivanc Kose](mailto:kkoseug@gmail.com) or [Alican Bozkurt](mailto:bozkurta@gmail.com) for further inquiries.
+Please create an issue for further inquiries.
